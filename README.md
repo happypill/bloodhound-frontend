@@ -1,9 +1,12 @@
 # BloodHound-FrontEnd
 
 Bloodhound is a finanical tracker that we planned to use .
-###Contributers
+
+#Contributers 
+
 Merv
 happypill
+
 ### Tech
 
 * React
@@ -22,7 +25,7 @@ Bloodhound requires [Node.js](https://nodejs.org/) v4+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
-For backend:https://github.com/happypill/BloodHound-Backend
+For backend:https://github.com/MervLim/FinTail-Backend
 ```sh
 $ git clone https://github.com/dheamariesta/food-awesome.git
 $ cd food-awesome

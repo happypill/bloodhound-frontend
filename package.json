@@ -12,7 +12,7 @@
     "moment-timezone": "^0.5.13",
     "react": "^15.6.1",
     "react-chartjs-2": "^2.5.5",
-    "react-dom": "^15.6.1",
+    "react-dom": "^16.0.1",
     "react-modal": "^2.2.2",
     "react-redux": "^5.0.5",
     "react-router": "^4.1.2",
